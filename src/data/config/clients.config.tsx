@@ -1,15 +1,15 @@
 export const CLIENTWORKS = [
   {
-    title: "Bytechnology - ",
-    dates: "9th Sep 2024 - 22nd Sep 2024",
+    title: "Bytechnology - IT solutions Company",
+    dates: "Sep 2024 - Dec 2024",
     worktype: "Fullstack",
     testimonial:
-      "https://firebasestorage.googleapis.com/v0/b/archives-63571.appspot.com/o/portfolio%2Ftestimonials%2Fboxchat-testimonial.mp4?alt=media&token=51be6968-e40f-4074-a0f7-026f98930671",
+      "#",
     featured: true,
     description:
-      "BOXCHAT is a SAAS that lets you interact with websites, PDFs, and documents in real-time. It provides quick answers and insights directly from your chosen sources, it gives multiple ai models feature to sync your questions and get different responses at a time.",
+      "Bytechnology is a leading IT solutions provider specializing in infrastructure management, networking, cloud solutions, cybersecurity, and IT hardware sales. They offer end-to-end technology services to help businesses optimize and secure their IT infrastructure.",
     features:
-      "Playground feature like **Vercel**. Chat feature like **ChatGPT**. Text to image generation.",
+      "Meeting Scheduling System. Service Showcase. Interactive & Responsive Design .",
     technologies: [
       "Next.js",
       "Typescript",
@@ -24,6 +24,6 @@ export const CLIENTWORKS = [
     ],
     image: "",
     video:
-      "https://firebasestorage.googleapis.com/v0/b/archives-63571.appspot.com/o/portfolio%2Fboxchat-preview.mp4?alt=media&token=e18c270b-dbce-4588-838e-2162c2de4bd8",
+      "https://my-personalportfolio.s3.ap-south-1.amazonaws.com/demovideo",
   },
 ];

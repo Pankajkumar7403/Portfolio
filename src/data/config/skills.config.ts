@@ -20,13 +20,13 @@ export const SKILLS = [
     technologies: ["Hono.js", "Express.js", "Flask", "Next.js"],
   },
   {
-    category: "Mobile",
+    category: "Data Science",
     technologies: [
-      "React Native",
-      "Expo",
-      "RN MMKV",
-      "RN Reanimated",
-      "RN Gesture Handler",
+      "Python",
+      "Machine leanring",
+      "Python libraries",
+      "Statistics",
+      "Deep learning",
     ],
   },
   // {

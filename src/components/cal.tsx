@@ -10,7 +10,7 @@ export function ScheduleCallFloat() {
   const { theme } = useTheme();
   useEffect(() => {
     (async function () {
-      const cal = await getCalApi({ namespace: "saidevdhal" });
+      const cal = await getCalApi({ namespace: "15min" });
       cal("ui", {
         theme: theme === "dark" ? "dark" : "light",
         cssVarsPerTheme: {
@@ -22,10 +22,11 @@ export function ScheduleCallFloat() {
       });
     })();
   }, [theme]);
+
   return (
     <Button
-      data-cal-namespace="saidevdhal"
-      data-cal-link="saidevdhal"
+      data-cal-namespace="15min"
+      data-cal-link="pankajthedeveloper/15min"
       data-cal-config='{"layout":"month_view"}'
       className="group/cal fixed z-50 md:bottom-5 bottom-20 right-5 w-12 h-12 rounded-full hover:px-4 hover:w-auto p-2 duration-300 transition-all ease-out"
     >
