@@ -3,6 +3,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { DATA } from "@/data/config/site.config";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import { Inter as FontSans } from "next/font/google";
 import "./globals.css";
 import { TopNavbar } from "@/components/top-navbar";
@@ -108,6 +109,7 @@ export default function RootLayout({
               <TopNavbar />
             </div>
             {children}
+            <SpeedInsights />
             <div className="block md:hidden">
               <BottomNavbar />
             </div>
