@@ -19,7 +19,7 @@ Built with next.js, [loops](https://loops.so/), [shadcn/ui](https://ui.shadcn.co
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/SkidGod4444/portfolio
+   git clone https://github.com/pankajkumar7403/portfolio
    ```
 
 2. Move to the cloned directory
@@ -48,7 +48,7 @@ Built with next.js, [loops](https://loops.so/), [shadcn/ui](https://ui.shadcn.co
 
 # License
 
-Licensed under the [MIT license](https://github.com/SkidGod4444/portfolio/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/pankajkumar7403/portfolio/blob/main/LICENSE.md).
 
 # Credits
 

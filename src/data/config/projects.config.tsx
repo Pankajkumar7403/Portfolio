@@ -159,7 +159,7 @@ export const PROJECTS = [
   },
   {
     title: "Telegram Member Adder",
-    // href: "https://github.com/SkidGod4444/TeleGram-Member-Adder",
+    // href: "https://github.com/pankajkumar7403/TeleGram-Member-Adder",
     dates: "Apr 2023 - Apr 2023",
     featured: false,
     archived: true,
@@ -169,7 +169,7 @@ export const PROJECTS = [
     links: [
       {
         type: "Source",
-        href: "https://github.com/SkidGod4444/TeleGram-Member-Adder",
+        // href: "https://github.com/PankajKumar7403/TeleGram-Member-Adder",
         icon: <Icons.github className="size-3" />,
       },
     ],
@@ -178,7 +178,7 @@ export const PROJECTS = [
   },
   {
     title: "Sputnik - My first python discord bot",
-    // href: "https://github.com/SkidGod4444/TeleGram-Member-Adder",
+    // href: "https://github.com/PankajKumar7403/TeleGram-Member-Adder",
     dates: "Oct 2022 - Sept 2023",
     featured: false,
     archived: true,
@@ -188,7 +188,7 @@ export const PROJECTS = [
     links: [
       {
         type: "Source",
-        href: "https://github.com/SkidGod4444/Sputnik",
+        // href: "https://github.com/PankajKumar7403/Sputnik",
         icon: <Icons.github className="size-3" />,
       },
     ],
