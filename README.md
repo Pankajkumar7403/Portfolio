@@ -2,7 +2,7 @@
 <img alt="preview" src="https://github.com/Pankajkumar7403/portfolio/blob/master/public/prev.png" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSkidGod4444%2Fportfolio)
+# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%pankajkumar7403%2Fportfolio)
 
 Built with next.js, [loops](https://loops.so/), [shadcn/ui](https://ui.shadcn.com/), [acternity ui](https://ui.aceternity.com/), [magic ui](https://magicui.design/) and [Supabase](https://supabase.com/dashboard/projects), deployed on Vercel.
 
