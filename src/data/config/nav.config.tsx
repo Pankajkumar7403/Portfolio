@@ -31,9 +31,9 @@ export const navItems = [
     icon: <NotebookIcon className="h-4 w-4 text-neutral-500 dark:text-white" />,
     name: "Blogs",
   },
-  {
-    link: "/guestbook",
-    icon: <Newspaper className="h-4 w-4 text-neutral-500 dark:text-white" />,
-    name: "Guestbook",
-  },
+  // {
+  //   link: "/guestbook",
+  //   icon: <Newspaper className="h-4 w-4 text-neutral-500 dark:text-white" />,
+  //   name: "Guestbook",
+  // },
 ];

@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 
 export const DATA = {
   name: "Pankaj Kumar",
-  initials: "SDD",
+  initials: "Pk",
   adminUserId: "ba7153c9-2262-4a89-9bc2-de924ef78afa",
   url: "https://pankaj.xyz",
   resume: "https://pankaj.xyz",
